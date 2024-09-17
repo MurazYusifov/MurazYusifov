@@ -1,5 +1,11 @@
+<h1 align="center"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" 
+         alt="DevSecOps gif"
+         height="500"
+         width="500" />
+</h1>
 <h1 align="center">Hi 👋, I'm Muraz</h1>
 <h3 align="center">DevOps Engineer focused on automation and cloud technolgies</h3>
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/1ZMQ6_PMf9MAAAAM/raccoon-rave.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murazyusifov&label=Profile%20views&color=0e75b6&style=flat" alt="murazyusifov" /> </p>
 
