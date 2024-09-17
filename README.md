@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **DevOps Projects**  
 - 🌱 I’m currently learning **Cloud**  
-- 💬 Ask me about **DevOps, Cloud Computing (AWS), Kubernetes, Linux System Administration, Git, Docker, Terraform, GitLab CI, GitHub Actions, Ansible, ELK, Bash Scripting, Cyber Security, Penetration Testing, OWASP Zap, Burp Suite, Metasploit, Nessus, Python, C, C++**  
+- 💬 Ask me about **DevOps, Cloud Computing (AWS), Kubernetes, Linux System Administration, Git, Docker, Terraform, GitLab CI, GitHub Actions, Ansible, ELK, EFK, Bash Scripting, Cyber Security, Penetration Testing, OWASP Zap, Burp Suite, Metasploit, Nessus, Python, C, C++**  
 - 📫 How to reach me: **[murazoffc@gmail.com](mailto:murazoffc@gmail.com)**  
 - ⚡ Fun fact: **I think I am super energetic**
 
@@ -92,7 +92,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
   </a>
   <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/>
   </a>
   <a href="https://www.sonarqube.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
@@ -103,6 +103,21 @@
   <a href="https://helm.sh" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/>
   </a>
+  <a href="https://gitlab.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/>
+  </a>
+  <a href="https://nexus.dev.java.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original.svg" alt="nexus" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elastic/elastic-original-wordmark.svg" alt="elk" width="40" height="40"/>
+  </a>
+  <a href="https://www.fluentd.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fluentd/fluentd-original.svg" alt="fluentd" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -110,3 +125,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=murazyusifov&" alt="murazyusifov" />
 </p>
+
+
+
