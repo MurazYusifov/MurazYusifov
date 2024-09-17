@@ -4,7 +4,7 @@
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="250" src="https://media.tenor.com/1ZMQ6_PMf9MAAAAM/raccoon-rave.gif" />
+  <img align="right" alt="Coding" width="200" src="https://media.tenor.com/1ZMQ6_PMf9MAAAAM/raccoon-rave.gif" />
 </p>
 
 <p align="left">
