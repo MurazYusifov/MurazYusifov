@@ -87,6 +87,12 @@
   <a href="https://www.haproxy.org" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-jTobcn3pbloeuf-dajTK9cvj3fvXPKRw&s" alt="haproxy" width="40" height="40"/>
   </a>
+  <a href="https://keepalived.readthedocs.io/en/latest/introduction.html" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpLZR5dGTzEXO-D_hXpFCK57gjFGyDwHw8Q&s" alt="haproxy" width="40" height="40"/>
+  </a>
+  <a href="https://metallb.universe.tf/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc5oULW7FJ9qZN5Bn_gg30cNcvj2T4LFQyg&s" alt="haproxy" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
