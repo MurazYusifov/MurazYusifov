@@ -78,6 +78,9 @@
   <a href="https://helm.sh" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes-sigs.github.io/kustomize/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-_QoUea_VKuKp4W3MoWZc6WEkqXuBysRew&s" alt="kustomize" width="60" height="40"/>
+  </a>
   <a href="https://argo-cd.readthedocs.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
   </a>
