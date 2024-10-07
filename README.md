@@ -84,6 +84,9 @@
   <a href="https://argo-cd.readthedocs.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
   </a>
+  <a href="https://fluxcd.io" target="_blank" rel="noreferrer">
+    <img src="https://fluxcd.io/img/flux-icon@2x.png" alt="fluxcd" width="40" height="40"/>
+  </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
